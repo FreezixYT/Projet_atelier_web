@@ -36,16 +36,4 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-
-}
-
-.stylish-page {
-    background-color: #f2f2f2;
-    /* Changer la couleur de fond selon vos préférences */
-    color: #333;
-    /* Changer la couleur du texte selon vos préférences */
-    font-family: 'Arial', sans-serif;
-    /* Changer la police de caractères selon vos préférences */
-    transition: background-color 0.5s ease;
-    /* Ajouter une transition pour un effet plus fluide */
 }
